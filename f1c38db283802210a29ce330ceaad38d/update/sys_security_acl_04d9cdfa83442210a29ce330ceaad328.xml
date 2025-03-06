@@ -6,7 +6,7 @@
         <applies_to/>
         <condition/>
         <decision_type>allow</decision_type>
-        <description/>
+        <description>Allow to delete records from the table.</description>
         <local_or_existing>Local</local_or_existing>
         <name>x_1540861_book_car_vehicle</name>
         <operation display_value="delete">delete</operation>
@@ -16,14 +16,14 @@
         <sys_created_by>joatan</sys_created_by>
         <sys_created_on>2025-03-06 15:15:46</sys_created_on>
         <sys_id>04d9cdfa83442210a29ce330ceaad328</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>x_1540861_book_car_vehicle</sys_name>
         <sys_package display_value="Book a Car" source="x_1540861_book_car">f1c38db283802210a29ce330ceaad38d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Book a Car">f1c38db283802210a29ce330ceaad38d</sys_scope>
         <sys_update_name>sys_security_acl_04d9cdfa83442210a29ce330ceaad328</sys_update_name>
         <sys_updated_by>joatan</sys_updated_by>
-        <sys_updated_on>2025-03-06 15:15:46</sys_updated_on>
+        <sys_updated_on>2025-03-06 19:21:13</sys_updated_on>
         <type display_value="record">record</type>
     </sys_security_acl>
 </record_update>

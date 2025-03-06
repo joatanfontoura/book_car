@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="model" label="Model" language="en" table="x_1540861_book_car_vehicle">
+    <sys_documentation element="unavailable" label="Unavailable" language="en" table="x_1540861_book_car_vehicle">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>model</element>
+            <element>unavailable</element>
             <help/>
             <hint/>
-            <label>Model</label>
+            <label>Unavailable</label>
             <language>en</language>
             <name>x_1540861_book_car_vehicle</name>
             <plural/>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>joatan</sys_created_by>
-            <sys_created_on>2025-03-06 15:17:55</sys_created_on>
+            <sys_created_on>2025-03-06 17:58:46</sys_created_on>
             <sys_mod_count>5</sys_mod_count>
-            <sys_name>Model</sys_name>
+            <sys_name>Unavailable</sys_name>
             <sys_package display_value="Book a Car" source="x_1540861_book_car">f1c38db283802210a29ce330ceaad38d</sys_package>
             <sys_policy/>
             <sys_scope display_value="Book a Car">f1c38db283802210a29ce330ceaad38d</sys_scope>
-            <sys_update_name>sys_documentation_x_1540861_book_car_vehicle_model_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_1540861_book_car_vehicle_unavailable_en</sys_update_name>
             <sys_updated_by>joatan</sys_updated_by>
-            <sys_updated_on>2025-03-06 18:09:07</sys_updated_on>
+            <sys_updated_on>2025-03-06 17:59:45</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

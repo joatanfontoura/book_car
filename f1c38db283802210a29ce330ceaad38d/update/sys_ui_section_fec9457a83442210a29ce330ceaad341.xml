@@ -4,13 +4,125 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>joatan</sys_created_by>
-            <sys_created_on>2025-03-06 15:15:41</sys_created_on>
-            <sys_id>76c9457a83442210a29ce330ceaad347</sys_id>
+            <sys_created_on>2025-03-06 18:00:19</sys_created_on>
+            <sys_id>ea7f6db283c06210a29ce330ceaad313</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1540861_book_car_vehicle" sys_domain="global" view="Default view">fec9457a83442210a29ce330ceaad341</sys_ui_section>
             <sys_updated_by>joatan</sys_updated_by>
-            <sys_updated_on>2025-03-06 15:15:41</sys_updated_on>
+            <sys_updated_on>2025-03-06 18:00:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>model</element>
+            <position>1</position>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2025-03-06 18:00:19</sys_created_on>
+            <sys_id>2a7f6db283c06210a29ce330ceaad314</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1540861_book_car_vehicle" sys_domain="global" view="Default view">fec9457a83442210a29ce330ceaad341</sys_ui_section>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2025-03-06 18:00:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>license_plate</element>
+            <position>2</position>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2025-03-06 18:00:19</sys_created_on>
+            <sys_id>227f6db283c06210a29ce330ceaad315</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1540861_book_car_vehicle" sys_domain="global" view="Default view">fec9457a83442210a29ce330ceaad341</sys_ui_section>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2025-03-06 18:00:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2025-03-06 18:00:20</sys_created_on>
+            <sys_id>2a7f6db283c06210a29ce330ceaad315</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1540861_book_car_vehicle" sys_domain="global" view="Default view">fec9457a83442210a29ce330ceaad341</sys_ui_section>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2025-03-06 18:00:20</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>unavailable</element>
+            <position>4</position>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2025-03-06 18:00:20</sys_created_on>
+            <sys_id>227f6db283c06210a29ce330ceaad316</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1540861_book_car_vehicle" sys_domain="global" view="Default view">fec9457a83442210a29ce330ceaad341</sys_ui_section>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2025-03-06 18:00:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>brand</element>
+            <position>5</position>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2025-03-06 18:00:20</sys_created_on>
+            <sys_id>2a7f6db283c06210a29ce330ceaad316</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1540861_book_car_vehicle" sys_domain="global" view="Default view">fec9457a83442210a29ce330ceaad341</sys_ui_section>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2025-03-06 18:00:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>picture</element>
+            <position>6</position>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2025-03-06 18:00:20</sys_created_on>
+            <sys_id>227f6db283c06210a29ce330ceaad317</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1540861_book_car_vehicle" sys_domain="global" view="Default view">fec9457a83442210a29ce330ceaad341</sys_ui_section>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2025-03-06 18:00:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>7</position>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2025-03-06 18:00:20</sys_created_on>
+            <sys_id>2a7f6db283c06210a29ce330ceaad317</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1540861_book_car_vehicle" sys_domain="global" view="Default view">fec9457a83442210a29ce330ceaad341</sys_ui_section>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2025-03-06 18:00:20</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>observations</element>
+            <position>8</position>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2025-03-06 18:00:20</sys_created_on>
+            <sys_id>227f6db283c06210a29ce330ceaad318</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1540861_book_car_vehicle" sys_domain="global" view="Default view">fec9457a83442210a29ce330ceaad341</sys_ui_section>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2025-03-06 18:00:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
