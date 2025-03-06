@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2025-03-06 15:25:02</sys_created_on>
+        <sys_id>27ebc5f683842210a29ce330ceaad3bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1540861_book_car_booking.x_1540861_book_car.fleet_manager</sys_name>
+        <sys_package display_value="Book a Car" source="x_1540861_book_car">f1c38db283802210a29ce330ceaad38d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Book a Car">f1c38db283802210a29ce330ceaad38d</sys_scope>
+        <sys_security_acl display_value="x_1540861_book_car_booking">afebc5f683842210a29ce330ceaad3b5</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_27ebc5f683842210a29ce330ceaad3bc</sys_update_name>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2025-03-06 15:25:02</sys_updated_on>
+        <sys_user_role display_value="x_1540861_book_car.fleet_manager" name="x_1540861_book_car.fleet_manager">d35705f683042210a29ce330ceaad3dc</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

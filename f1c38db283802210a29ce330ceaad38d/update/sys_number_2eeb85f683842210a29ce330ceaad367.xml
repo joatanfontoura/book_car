@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_1540861_book_car_booking">x_1540861_book_car_booking</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>BKG</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2025-03-06 15:24:57</sys_created_on>
+        <sys_id>2eeb85f683842210a29ce330ceaad367</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>BKG</sys_name>
+        <sys_package display_value="Book a Car" source="x_1540861_book_car">f1c38db283802210a29ce330ceaad38d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Book a Car">f1c38db283802210a29ce330ceaad38d</sys_scope>
+        <sys_update_name>sys_number_2eeb85f683842210a29ce330ceaad367</sys_update_name>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2025-03-06 15:24:57</sys_updated_on>
+    </sys_number>
+</record_update>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order>100</order>
+        <roles>x_1540861_book_car.fleet_manager,x_1540861_book_car.fleet_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2025-03-06 15:27:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fd6c853a83842210a29ce330ceaad30f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Book a Car</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Book a Car" source="x_1540861_book_car">f1c38db283802210a29ce330ceaad38d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Book a Car">f1c38db283802210a29ce330ceaad38d</sys_scope>
+        <sys_update_name>sys_app_application_fd6c853a83842210a29ce330ceaad30f</sys_update_name>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2025-03-06 15:27:21</sys_updated_on>
+        <title>Book a Car</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

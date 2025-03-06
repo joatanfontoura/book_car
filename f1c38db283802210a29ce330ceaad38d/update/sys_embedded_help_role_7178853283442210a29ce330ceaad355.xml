@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <role display_value="x_1540861_book_car.fleet_manager" name="x_1540861_book_car.fleet_manager">d35705f683042210a29ce330ceaad3dc</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2025-03-06 15:09:53</sys_created_on>
+        <sys_id>7178853283442210a29ce330ceaad355</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>d35705f683042210a29ce330ceaad3dc</sys_name>
+        <sys_package display_value="Book a Car" source="x_1540861_book_car">f1c38db283802210a29ce330ceaad38d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Book a Car">f1c38db283802210a29ce330ceaad38d</sys_scope>
+        <sys_update_name>sys_embedded_help_role_7178853283442210a29ce330ceaad355</sys_update_name>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2025-03-06 15:09:53</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
