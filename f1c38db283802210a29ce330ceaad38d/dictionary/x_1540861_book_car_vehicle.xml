@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="b1c909fa83442210a29ce330ceaad3ec" label="Vehicle" max_length="40" name="x_1540861_book_car_vehicle" type="collection">
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="true" label="Available" max_length="255" name="available" type="boolean"/>
         <element label="Picture" max_length="40" name="picture" type="user_image"/>
         <element display="true" label="Model" max_length="40" name="model" type="string"/>
         <element choice="1" label="Brand" max_length="40" name="brand" type="choice">

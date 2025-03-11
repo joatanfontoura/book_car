@@ -14,7 +14,7 @@
         <delivery_plan_script/>
         <delivery_time>1970-01-03 00:00:00</delivery_time>
         <description><![CDATA[<hr />
-<p>Please, you need to fill this form to request your car. It will need your manager approve before the vehicle is available for you.</p>
+<p>Your manager&#39;s approval will be required to complete the booking.</p>
 <hr />]]></description>
         <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
@@ -91,14 +91,14 @@
         <sys_created_by>joatan</sys_created_by>
         <sys_created_on>2025-03-07 13:55:12</sys_created_on>
         <sys_id>e1f00ec78348e610a29ce330ceaad3a4</sys_id>
-        <sys_mod_count>24</sys_mod_count>
+        <sys_mod_count>28</sys_mod_count>
         <sys_name>Book a Car</sys_name>
         <sys_package display_value="Book a Car" source="x_1540861_book_car">f1c38db283802210a29ce330ceaad38d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Book a Car">f1c38db283802210a29ce330ceaad38d</sys_scope>
         <sys_update_name>sc_cat_item_producer_e1f00ec78348e610a29ce330ceaad3a4</sys_update_name>
-        <sys_updated_by>joatan</sys_updated_by>
-        <sys_updated_on>2025-03-07 15:21:42</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2025-03-11 14:23:32</sys_updated_on>
         <table_name>x_1540861_book_car_booking</table_name>
         <taxonomy_topic/>
         <template/>
@@ -106,7 +106,7 @@
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
-        <version>24</version>
+        <version>28</version>
         <view/>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>

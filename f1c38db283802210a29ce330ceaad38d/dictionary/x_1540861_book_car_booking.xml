@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element audit="true" db_object_id="1eeb45f683842210a29ce330ceaad3b1" extends="task" label="Booking" max_length="40" name="x_1540861_book_car_booking" type="collection">
         <element label="Start date" max_length="40" name="start_date" type="glide_date_time"/>
-        <element label="Requested Vehicle" max_length="32" name="requested_vehicle" reference="x_1540861_book_car_vehicle" reference_qual="unavailable=false^EQ" reference_qual_condition="unavailable=false^EQ" type="reference"/>
+        <element label="Requested Vehicle" max_length="32" name="requested_vehicle" reference="x_1540861_book_car_vehicle" reference_qual="available=true^EQ" reference_qual_condition="available=true^EQ" type="reference"/>
         <element label="Delivered" max_length="40" name="delivered" type="boolean"/>
         <element label="End date" max_length="40" name="end_date" type="glide_date_time"/>
     </element>

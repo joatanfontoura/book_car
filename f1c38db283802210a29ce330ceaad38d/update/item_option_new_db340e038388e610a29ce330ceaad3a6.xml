@@ -58,8 +58,8 @@
         <record/>
         <record_producer_table>x_1540861_book_car_booking</record_producer_table>
         <reference>x_1540861_book_car_vehicle</reference>
-        <reference_qual>unavailable=false</reference_qual>
-        <reference_qual_condition table="x_1540861_book_car_vehicle">unavailable=false<item endquery="false" field="unavailable" goto="false" newquery="false" operator="=" or="false" value="false"/>
+        <reference_qual>available=true</reference_qual>
+        <reference_qual_condition table="x_1540861_book_car_vehicle">available=true<item endquery="false" field="available" goto="false" newquery="false" operator="=" or="false" value="true"/>
         </reference_qual_condition>
         <rich_text/>
         <roles_to_use_also_request_for/>
@@ -80,14 +80,14 @@
         <sys_created_by>joatan</sys_created_by>
         <sys_created_on>2025-03-07 15:17:53</sys_created_on>
         <sys_id>db340e038388e610a29ce330ceaad3a6</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Choose your car</sys_name>
         <sys_package display_value="Book a Car" source="x_1540861_book_car">f1c38db283802210a29ce330ceaad38d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Book a Car">f1c38db283802210a29ce330ceaad38d</sys_scope>
         <sys_update_name>item_option_new_db340e038388e610a29ce330ceaad3a6</sys_update_name>
         <sys_updated_by>joatan</sys_updated_by>
-        <sys_updated_on>2025-03-07 15:20:42</sys_updated_on>
+        <sys_updated_on>2025-03-11 14:23:32</sys_updated_on>
         <table/>
         <tooltip/>
         <topic_block/>
