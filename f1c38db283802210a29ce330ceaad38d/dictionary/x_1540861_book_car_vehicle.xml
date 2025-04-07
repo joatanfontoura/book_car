@@ -4,12 +4,12 @@
         <element default="true" label="Available" max_length="255" name="available" type="boolean"/>
         <element label="Picture" max_length="40" name="picture" type="user_image"/>
         <element display="true" label="Model" max_length="40" name="model" type="string"/>
-        <element choice="1" label="Brand" max_length="40" name="brand" type="choice">
+        <element choice="1" label="Make" max_length="40" name="brand" type="choice">
             <choice>
-                <element inactive_on_update="false" label="Hyundai" sequence="400" value="hyundai"/>
-                <element inactive_on_update="false" label="Fiat" sequence="200" value="fiat"/>
-                <element inactive_on_update="false" label="Ford" sequence="300" value="ford"/>
-                <element inactive_on_update="false" label="Chevrolet" sequence="100" value="chevrolet"/>
+                <element inactive_on_update="false" label="Hyundai" sequence="3" value="hyundai"/>
+                <element inactive_on_update="false" label="Fiat" sequence="1" value="fiat"/>
+                <element inactive_on_update="false" label="Ford" sequence="2" value="ford"/>
+                <element inactive_on_update="false" label="Chevrolet" sequence="0" value="chevrolet"/>
             </choice>
         </element>
         <element label="License Plate" max_length="40" name="license_plate" type="string"/>
